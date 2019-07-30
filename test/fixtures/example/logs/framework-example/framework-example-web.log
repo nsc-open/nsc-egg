@@ -1,0 +1,1 @@
+2019-07-30 14:17:15,931 INFO 6784 [egg-sequelize](27ms) Executed (default): SELECT 1+1 AS result

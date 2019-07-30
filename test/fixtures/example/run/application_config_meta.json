@@ -1,0 +1,260 @@
+{
+  "keys": "/Users/Jack/Work/nsc-egg/test/fixtures/example/config/config.unittest.js",
+  "session": {
+    "maxAge": "/Users/Jack/Work/nsc-egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/Jack/Work/nsc-egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/Jack/Work/nsc-egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/Jack/Work/nsc-egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "useSession": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "cookieName": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "sessionName": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "headerName": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "bodyName": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "queryName": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "value": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "maxAge": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "value": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "value": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "policy": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+      "checkAddress": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/Jack/Work/nsc-egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/Jack/Work/nsc-egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/Jack/Work/nsc-egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/Jack/Work/nsc-egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/Jack/Work/nsc-egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/Jack/Work/nsc-egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/Jack/Work/nsc-egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/Jack/Work/nsc-egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/Jack/Work/nsc-egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/Jack/Work/nsc-egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/Jack/Work/nsc-egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/Jack/Work/nsc-egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/Jack/Work/nsc-egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/Jack/Work/nsc-egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.unittest.js",
+    "eventSources": {
+      "default": "/Users/Jack/Work/nsc-egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/Users/Jack/Work/nsc-egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/Jack/Work/nsc-egg/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+      "file": "/Users/Jack/Work/nsc-egg/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/Jack/Work/nsc-egg/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "fields": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "files": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/Jack/Work/nsc-egg/node_modules/_egg-multipart@2.7.1@egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/Jack/Work/nsc-egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/Jack/Work/nsc-egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dir": "/Users/Jack/Work/nsc-egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/Jack/Work/nsc-egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/Jack/Work/nsc-egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/Jack/Work/nsc-egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/Jack/Work/nsc-egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/Jack/Work/nsc-egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "cache": "/Users/Jack/Work/nsc-egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultExtension": "/Users/Jack/Work/nsc-egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/Jack/Work/nsc-egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "mapping": "/Users/Jack/Work/nsc-egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
+  },
+  "sequelize": {
+    "dialect": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "database": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "host": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "port": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "username": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "password": "/Users/Jack/Work/nsc-egg/config/config.default.js"
+  },
+  "redis": {
+    "default": "/Users/Jack/Work/nsc-egg/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "app": "/Users/Jack/Work/nsc-egg/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "agent": "/Users/Jack/Work/nsc-egg/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "supportTimeCommand": "/Users/Jack/Work/nsc-egg/node_modules/_egg-redis@2.4.0@egg-redis/config/config.default.js",
+    "host": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "port": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "password": "/Users/Jack/Work/nsc-egg/config/config.default.js",
+    "db": "/Users/Jack/Work/nsc-egg/config/config.default.js"
+  },
+  "env": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "name": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "proxy": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "maxProxyCount": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "version": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "HOME": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "rundir": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "notFound": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "sitefile": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "middlewares": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "httpClient": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "encoding": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "formLimit": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "strict": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "depth": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "onerror": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "encoding": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "env": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "level": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "outputJSON": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "buffer": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.unittest.js",
+    "appLogName": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "coreLogName": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "agentLogName": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "errorLogName": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "coreLogger": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxSockets": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxSockets": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "logging": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "serverTimeout": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "port": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "hostname": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/Jack/Work/nsc-egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "test": {
+    "key": "/Users/Jack/Work/nsc-egg/config/config.default.js"
+  },
+  "nsc": {
+    "key": "/Users/Jack/Work/nsc-egg/config/config.default.js"
+  }
+}
