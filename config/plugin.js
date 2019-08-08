@@ -1,6 +1,6 @@
-exports.sequelize = {
+exports.sequelizeModule = {
   enable: false,
-  package: 'egg-sequelize'
+  package: 'egg-sequelize-module'
 }
 
 exports.redis = {

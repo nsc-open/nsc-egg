@@ -15,7 +15,7 @@ module.exports = appInfo => {
     
   }
 
-  config.sequelize = {
+  config.sequelizeModule = {
     
   }
 
