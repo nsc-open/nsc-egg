@@ -1,6 +1,6 @@
 {
   "name": "nsc-egg",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "",
   "egg": {
     "declarations": true,
@@ -11,7 +11,7 @@
     "egg-redis": "^2.4.0",
     "egg-sequelize": "^5.2.0",
     "egg-sequelize-module": "^0.0.3",
-    "eggular": "^0.0.5",
+    "eggular": "^0.0.6",
     "mysql2": "^1.5.3"
   },
   "devDependencies": {
