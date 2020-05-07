@@ -1,26 +1,4 @@
 # nsc
 
 
-
-## QuickStart
-
-```bash
-$ npm install
-$ npm test
-```
-
-publish your framework to npm, then change app's dependencies:
-
-```js
-// {app_root}/index.js
-require('nsc').startCluster({
-  baseDir: __dirname,
-  // port: 7001, // default to 7001
-});
-
-```
-
-## Questions & Suggestions
-
-Please open an issue [here](https://github.com/eggjs/egg/issues).
-
+nsc-egg 主要是通过 package.json 中的 dependencies 约定了基础 framework eggular，和一些常用的插件。
